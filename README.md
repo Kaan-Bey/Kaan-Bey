@@ -1,4 +1,4 @@
->  [!https://github.com/Kaan-Bey/picture/blob/main/word-image-12.png)
+>  [(!https://github.com/Kaan-Bey/picture/blob/main/word-image-12.png))
 <h1 align="center">Hi 👋, I'm Kaan KARAN</h1>
 <h3 align="center">Electronic Engineer & QA Engineer & Project Manager & MBA & Master of Telecommunication</h3>
 
